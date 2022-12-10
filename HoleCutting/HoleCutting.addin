@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<RevitAddIns>
+	<AddIn Type = "Command">
+		<Assembly>C:\Program Files\Autodesk\RevitAddins\HoleCutting.dll</Assembly>
+		<AddInId>C13734CD-27D8-43C1-A78A-5D58FDA3CCFE</AddInId>
+		<FullClassName>HoleCutting.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Прорезание отверстий</Text>
+	</AddIn>
+</RevitAddIns>
